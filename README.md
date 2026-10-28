@@ -6,43 +6,42 @@
 
 </div>
 
-### 👋 Sobre mí
+<img src="./assets/about-card.svg" width="100%"/>
 
-- 🎓 **Analista Programador** y estudiante de **Ingeniería en Ciberseguridad**.
-- 💻 Desarrollo aplicaciones web y APIs REST en **Python (Django)** y **Node.js (Express)**, con bases de datos SQL, MySQL, PostgreSQL y MongoDB.
-- 🛡️ Complemento mi perfil con formación en ciberseguridad (hardening, gestión de amenazas, certificaciones Cisco).
-- 🏗️ Vengo de **17 años de experiencia en infraestructura TI y redes**, lo que me da una visión técnica completa: desde el código hasta la infraestructura que lo sostiene.
-- 🕵️ Me apasiona la **ciberseguridad**: entender cómo piensan los atacantes para construir software y redes más seguras.
+<br/>
 
-### 📚 Actualmente aprendiendo
-
-- Automatización de TI con Python (Google / Coursera, en curso)
-- Fundamentos avanzados de Ingeniería en Ciberseguridad (INACAP)
-
-### 🧰 Stack técnico
+<img src="./assets/lbl-stack.svg" height="38"/>
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=py,django,nodejs,express,js,html,css,bootstrap,mysql,postgres,mongodb,git,github,linux,windows" />
 </div>
 
-### 📌 Proyectos destacados
+<br/>
+
+<img src="./assets/lbl-proyectos.svg" height="38"/>
 
 - **[nieve-y-sol](https://github.com/MauExpl01t/nieve-y-sol)** — Sistema de reservas, API REST en Node.js/Express + PostgreSQL con login, roles y seguridad (proyecto en equipo, Scrum Master).
 - **[webscan](https://github.com/MauExpl01t/webscan)** — Herramienta de diagnóstico de seguridad web en Python (checks OWASP, pruebas activas opt-in, 29 pruebas automatizadas).
 
-### 🏆 Trofeos
+<br/>
+
+<img src="./assets/lbl-trofeos.svg" height="38"/>
 
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=MauExpl01t&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8&margin-h=8" />
 </div>
 
-### 🐍 Actividad del último año
+<br/>
+
+<img src="./assets/lbl-actividad.svg" height="38"/>
 
 <div align="center">
 <img src="./assets/github-contribution-grid-snake.svg" />
 </div>
 
-### 📊 Estadísticas de GitHub
+<br/>
+
+<img src="./assets/lbl-stats.svg" height="38"/>
 
 <div align="center">
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=MauExpl01t&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -53,7 +52,9 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=MauExpl01t&theme=tokyonight&hide_border=true" />
 </div>
 
-### 📫 Contacto
+<br/>
+
+<img src="./assets/lbl-contacto.svg" height="38"/>
 
 <div align="center">
 

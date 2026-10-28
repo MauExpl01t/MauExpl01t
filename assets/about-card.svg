@@ -1,0 +1,36 @@
+<svg width="860" height="505" viewBox="0 0 860 505" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>text{dominant-baseline:alphabetic}</style>
+  </defs>
+  <rect x="0" y="0" width="860" height="505" rx="12" fill="#0b0f14" stroke="#30363d" stroke-width="1"/>
+
+  <!-- title bar -->
+  <circle cx="26" cy="30" r="5" fill="#ff5f56"/>
+  <circle cx="43" cy="30" r="5" fill="#ffbd2e"/>
+  <circle cx="60" cy="30" r="5" fill="#27c93f"/>
+  <text x="430" y="34" text-anchor="middle" font-family="'JetBrains Mono',ui-monospace,monospace" font-size="12" fill="#8b949e">sobre_mi.md</text>
+  <line x1="0" y1="52" x2="860" y2="52" stroke="#30363d" stroke-width="1"/>
+
+  <text x="44" y="78" font-family="'JetBrains Mono',ui-monospace,monospace" font-size="14" fill="#60a5fa">$ <tspan fill="#e6edf3">cat sobre_mi.md</tspan></text>
+
+  <text x="44" y="100" font-family="'Inter',system-ui,sans-serif" font-size="15">🎓</text>
+  <text x="72" y="100" font-family="'Inter',system-ui,sans-serif" font-size="15"><tspan fill="#60a5fa" font-weight="700">Analista Programador</tspan><tspan fill="#e6edf3" font-weight="400"> y estudiante de </tspan><tspan fill="#60a5fa" font-weight="700">Ingeniería en Ciberseguridad</tspan><tspan fill="#e6edf3" font-weight="400">.</tspan></text>
+  <text x="44" y="139" font-family="'Inter',system-ui,sans-serif" font-size="15">💻</text>
+  <text x="72" y="139" font-family="'Inter',system-ui,sans-serif" font-size="15"><tspan fill="#e6edf3" font-weight="400">Desarrollo aplicaciones web y APIs REST en </tspan><tspan fill="#60a5fa" font-weight="700">Python (Django)</tspan><tspan fill="#e6edf3" font-weight="400"> y </tspan><tspan fill="#60a5fa" font-weight="700">Node.js (Express)</tspan><tspan fill="#e6edf3" font-weight="400">,</tspan></text>
+  <text x="72" y="164" font-family="'Inter',system-ui,sans-serif" font-size="15"><tspan fill="#e6edf3" font-weight="400">con bases de datos SQL, MySQL, PostgreSQL y MongoDB.</tspan></text>
+  <text x="44" y="203" font-family="'Inter',system-ui,sans-serif" font-size="15">🛡️</text>
+  <text x="72" y="203" font-family="'Inter',system-ui,sans-serif" font-size="15"><tspan fill="#e6edf3" font-weight="400">Complemento mi perfil con formación en </tspan><tspan fill="#3fb950" font-weight="700">ciberseguridad</tspan><tspan fill="#e6edf3" font-weight="400"> (hardening, gestión</tspan></text>
+  <text x="72" y="228" font-family="'Inter',system-ui,sans-serif" font-size="15"><tspan fill="#e6edf3" font-weight="400">de amenazas, certificaciones Cisco).</tspan></text>
+  <text x="44" y="267" font-family="'Inter',system-ui,sans-serif" font-size="15">🏗️</text>
+  <text x="72" y="267" font-family="'Inter',system-ui,sans-serif" font-size="15"><tspan fill="#e6edf3" font-weight="400">Vengo de </tspan><tspan fill="#60a5fa" font-weight="700">17 años de experiencia</tspan><tspan fill="#e6edf3" font-weight="400"> en infraestructura TI y redes, lo que me da</tspan></text>
+  <text x="72" y="292" font-family="'Inter',system-ui,sans-serif" font-size="15"><tspan fill="#e6edf3" font-weight="400">una visión técnica completa: desde el código hasta la infraestructura que lo sostiene.</tspan></text>
+  <text x="44" y="331" font-family="'Inter',system-ui,sans-serif" font-size="15">🕵️</text>
+  <text x="72" y="331" font-family="'Inter',system-ui,sans-serif" font-size="15"><tspan fill="#e6edf3" font-weight="400">Me apasiona la </tspan><tspan fill="#3fb950" font-weight="700">ciberseguridad</tspan><tspan fill="#e6edf3" font-weight="400">: entender cómo piensan los atacantes para</tspan></text>
+  <text x="72" y="356" font-family="'Inter',system-ui,sans-serif" font-size="15"><tspan fill="#e6edf3" font-weight="400">construir software y redes más seguras.</tspan></text>
+
+  <line x1="44" y1="389" x2="816" y2="389" stroke="#30363d" stroke-width="1"/>
+
+  <text x="44" y="419" font-family="'JetBrains Mono',ui-monospace,monospace" font-size="14" fill="#60a5fa">$ <tspan fill="#e6edf3">cat aprendiendo.md</tspan></text>
+  <text x="72" y="451" font-family="'Inter',system-ui,sans-serif" font-size="15" fill="#e6edf3">🐍 Automatización de TI con Python <tspan fill="#8b949e">(Google / Coursera, en curso)</tspan></text>
+  <text x="72" y="477" font-family="'Inter',system-ui,sans-serif" font-size="15" fill="#e6edf3">🛡️ Fundamentos avanzados de Ingeniería en Ciberseguridad <tspan fill="#8b949e">(INACAP)</tspan></text>
+</svg>
