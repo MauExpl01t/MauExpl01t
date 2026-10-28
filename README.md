@@ -2,6 +2,8 @@
 
 <img src="./assets/banner.svg" width="100%"/>
 
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=800&size=42&pause=2000&color=FFFFFF&center=true&vCenter=true&width=600&height=60&lines=Mauricio+Maluenda" alt="Mauricio Maluenda" />
+
 ![Disponible para oportunidades](https://img.shields.io/badge/●%20Disponible%20para%20oportunidades-brightgreen?style=flat-square)
 
 <a href="https://github.com/MauExpl01t">
