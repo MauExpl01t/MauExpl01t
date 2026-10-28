@@ -4,10 +4,6 @@
 
 ![Disponible para oportunidades](https://img.shields.io/badge/●%20Disponible%20para%20oportunidades-brightgreen?style=flat-square)
 
-<a href="https://github.com/MauExpl01t">
-  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=18&pause=1200&color=4ADE80&center=true&vCenter=true&width=600&height=50&lines=%23+whoami.py;pasion+%3D+%22ciberseguridad%22;stack+%3D+%5B%22Python%22%2C+%22Django%22%2C+%22Node.js%22%5D;mindset+%3D+%22atacante+-%3E+defensor%22" alt="Typing SVG" />
-</a>
-
 </div>
 
 ### 👋 Sobre mí
