@@ -22,6 +22,10 @@
 
 - **[nieve-y-sol](https://github.com/MauExpl01t/nieve-y-sol)** — Sistema de reservas, API REST en Node.js/Express + PostgreSQL con login, roles y seguridad (proyecto en equipo, Scrum Master).
 - **[webscan](https://github.com/MauExpl01t/webscan)** — Herramienta de diagnóstico de seguridad web en Python (checks OWASP, pruebas activas opt-in, 29 pruebas automatizadas).
+- **[techstore_project](https://github.com/MauExpl01t/techstore_project)** — Sistema web CRUD en Django para catálogo de productos (MySQL), con API REST por token y 35 pruebas automatizadas.
+- **[script-auditoria-red](https://github.com/MauExpl01t/script-auditoria-red)** — Script en Python para auditoría y diagnóstico de redes: mide velocidad, registra configuración y prueba estabilidad de conexión; genera informes automáticos.
+- **[Laboratorio-DevSecOps](https://github.com/MauExpl01t/Laboratorio-DevSecOps)** — Primer script de automatización de infraestructura, explorando prácticas DevSecOps.
+- **[Evaluacion3_BD_No_Estructurada](https://github.com/MauExpl01t/Evaluacion3_BD_No_Estructurada)** — Aplicación en Python con MongoDB: modelado de base de datos no estructurada y operaciones CRUD.
 
 <br/>
 
