@@ -20,6 +20,10 @@
 
 <img src="./assets/lbl-proyectos.svg" height="38"/>
 
+- **[gitsecrets](https://github.com/MauExpl01t/gitsecrets)** — Escáner de secretos en el historial de git: firmas conocidas + detección por entropía, indica si el secreto sigue expuesto en HEAD o solo quedó en el historial.
+- **[pwcheck](https://github.com/MauExpl01t/pwcheck)** — Auditoría de contraseñas filtradas vía k-anonimato (Pwned Passwords de HaveIBeenPwned): revisión individual o masiva, sin exponer la contraseña nunca.
+- **[subdomain-enum](https://github.com/MauExpl01t/subdomain-enum)** — Enumerador de subdominios: Certificate Transparency + fuerza bruta opt-in, detección de DNS comodín y subdomain takeover.
+- **[depcheck](https://github.com/MauExpl01t/depcheck)** — Revisor de dependencias vulnerables vía OSV.dev: lee requirements.txt/package.json, consulta por lotes, indica severidad y versión que corrige cada vulnerabilidad.
 - **[nieve-y-sol](https://github.com/MauExpl01t/nieve-y-sol)** — Sistema de reservas, API REST en Node.js/Express + PostgreSQL con login, roles y seguridad (proyecto en equipo, Scrum Master).
 - **[webscan](https://github.com/MauExpl01t/webscan)** — Herramienta de diagnóstico de seguridad web en Python (checks OWASP, pruebas activas opt-in, 29 pruebas automatizadas).
 - **[techstore_project](https://github.com/MauExpl01t/techstore_project)** — Sistema web CRUD en Django para catálogo de productos (MySQL), con API REST por token y 35 pruebas automatizadas.
