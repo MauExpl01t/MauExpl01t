@@ -20,6 +20,8 @@
 
 <img src="./assets/lbl-proyectos.svg" height="38"/>
 
+- **[port-scanner](https://github.com/MauExpl01t/port-scanner)** — Escáner de puertos TCP/UDP en Python puro (sin dependencias): descubrimiento de equipos, detección de servicios y sistema operativo, scripts de exposición (Redis/VNC sin clave, FTP anónimo, SMBv1) y salidas JSON/XML/HTML. Concurrencia con asyncio y más de 120 pruebas automáticas.
+- **[report-generator](https://github.com/MauExpl01t/report-generator)** — Generador de informes de seguridad tipo dashboard (HTML/PDF) en lenguaje simple para el cliente final, a partir del resultado de webscan o port-scanner.
 - **[gitsecrets](https://github.com/MauExpl01t/gitsecrets)** — Escáner de secretos en el historial de git: firmas conocidas + detección por entropía, indica si el secreto sigue expuesto en HEAD o solo quedó en el historial.
 - **[pwcheck](https://github.com/MauExpl01t/pwcheck)** — Auditoría de contraseñas filtradas vía k-anonimato (Pwned Passwords de HaveIBeenPwned): revisión individual o masiva, sin exponer la contraseña nunca.
 - **[subdomain-enum](https://github.com/MauExpl01t/subdomain-enum)** — Enumerador de subdominios: Certificate Transparency + fuerza bruta opt-in, detección de DNS comodín y subdomain takeover.
